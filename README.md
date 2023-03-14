@@ -18,6 +18,4 @@
 
 ## 윗동네 이슈
 영상 
-<iframe width="894" height="503" src="http://www.youtube.com/embed/ir-NLxo3MHQ" title="북한 발표 10분 전 &quot;미사일 발사&quot;…하루 늦게 발표한 군 / JTBC 뉴스룸" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe width="894" height="503" src="https://www.youtube.com/embed/ir-NLxo3MHQ" title="북한 발표 10분 전 &quot;미사일 발사&quot;…하루 늦게 발표한 군 / JTBC 뉴스룸" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe id = "ytplayer" type = "text/html" width="894" height="503" src="http://www.youtube.com/embed/ir-NLxo3MHQ" title="북한 발표 10분 전 &quot;미사일 발사&quot;…하루 늦게 발표한 군 / JTBC 뉴스룸" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
