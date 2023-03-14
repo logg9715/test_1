@@ -15,3 +15,6 @@
 ## 공모전 수상 현황
 대학생 IT 아이디어 대회 <br>
 [수상작 발표자료](/presentation.pptx)
+
+## 윗동네 이슈
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ir-NLxo3MHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
