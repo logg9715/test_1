@@ -1,6 +1,8 @@
 # test_1
 시험용 페이지
 
+<img src = "github_mark.png"/><br>
+
 ## github 페이지 생성
 첫 생성 날짜 230307
 
