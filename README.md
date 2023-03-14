@@ -1,7 +1,7 @@
 # test_1
 시험용 페이지
 
-<img witdh = "400" height = "400" src = "github_mark.png"/><br>
+<img witdh = "400" height = "400" src = "github_mark.png"></img><br>
 
 ## github 페이지 생성
 첫 생성 날짜 230307
