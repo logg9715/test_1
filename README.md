@@ -13,5 +13,5 @@
 [학교 사이트](https://www.dongyang.ac.kr/dongyang/index.do)
 
 ## 공모전 수상 현황
-대학생 IT 아이디어 대회 
+대학생 IT 아이디어 대회 <br>
 [수상작 발표자료](/presentation.pptx)
