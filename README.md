@@ -8,4 +8,4 @@
 미정
 
 ## 바로가기
-[학교 사이트] (https://www.dongyang.ac.kr/dongyang/index.do)
+[학교 사이트](https://www.dongyang.ac.kr/dongyang/index.do)
